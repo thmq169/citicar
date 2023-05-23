@@ -1,0 +1,70 @@
+{
+  "date": "Ngày",
+  "save": "Lưu",
+  "cancel": "Hủy",
+  "hero-title": "Online Car Commerce Platform",
+  "hero-1": "The transaction takes place rapidly",
+  "hero-2": "Quality comes first",
+  "hero-3": "Transparency pricing",
+  "hero-btn": "Go to our application",
+  "services": {
+    "title": "SERVICES",
+    "subtitle": "We are willing bring you unforgettable experiences",
+    "heads": [
+      "VARIOUS SERVICES",
+      "FREE CONSULTATION",
+      "DIVERSIFIED PAYMENTS",
+      "WARRANTY COMMITMENT"
+    ],
+    "descs": [
+      "We provide professional services to serve your needs of selling and buying cars",
+      "CitiCar’s consultants are always ready to assist you",
+      "Support many mode of payment through financial partner",
+      "Professional warranty and maintenance service at a reasonable price"
+    ]
+  },
+  "features": {
+    "title": "EASY TO BUY-SELL CARS AT CITICAR",
+    "heads": [
+      "Search for models quickly at CitiCar",
+      "The detail of a car is transparency and explicit ",
+      "The Consignment and buying-selling processes are straightforward and expeditious"
+    ],
+    "descs": [
+      "Finding your favorite car is so easy and efficient with our search function and detailed filters",
+      "The CitiCar app provides car specifications in a transparent and intuitive way",
+      "Consultants will assist you with all relevant formality and paperwork in CitiCar"
+    ]
+  },
+  "faqs": {
+    "title": "FREQUENTLY ASKED QUESTION",
+    "button": "Contact Us",
+    "heads": [
+      "How do I sell my car on CitiCar?",
+      "How does the car inspection process take place at CitiCar?",
+      "Where does the car inspection take place?",
+      "Do I have to pay any surcharge when I buy a car at CitiCar?",
+      "Does CitiCar assist me with paperwork and legal issues?",
+      "Does CitiCar offer consignment services?"
+    ],
+    "descs": [
+      "1. Provide your phone number and name via the contact form on the Website.<br> 2. We will contact you to give an estimated price quotation, schedule a day to inspect your car, and offer the best preferential.",
+      "Our technicians inspect the car from exterior to interior, including the engine and other parts that can be worn and torn.",
+      "For the car inspection to take place following our standard procedures, please drive the car to our office - for details of the office address via the Website.",
+      "The total cost when we quote you is the final price, no other surcharges will be incurred. In case you make installment payments, the service provider may collect fees according to the bank's regulations.",
+      "CitiCards staff are always ready to assist you with the relevant legal documents and formalities.",
+      "We provide consignment services on a case-by-case basis. Please contact us for assistance."
+    ]
+  },
+  "contacts": {
+    "title": "FOLLOW US",
+    "subtitle": "<strong>Sign up</strong> to receive the latest from us",
+    "button": "Sign up for our newsletter",
+    "heads": ["CitiCar", "Contact Informations", "Socials"],
+    "desc": [
+      "The platform provides professional car buying and selling services. Provide customers with a seamless, fast, and reliable experience.",
+      "CÔNG TY CỔ PHẦN ĐẦU TƯ CÔNG NGHỆ CITICAR VIỆT NAM"
+    ],
+    "address": "<strong>Address:</strong> 10th Floor, Pax Sky - 10, Nguyen Cu Trinh, Nguyen Cu Trinh Ward, District 1, Ho Chi Minh City, Viet Nam <br> <strong>Hotline:</strong> (028) 3636 7951<br><strong>Email:</strong> info@citicar.vn<br>"
+  }
+}

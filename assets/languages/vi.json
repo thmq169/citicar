@@ -1,0 +1,70 @@
+{
+  "date": "Ngày",
+  "save": "Lưu",
+  "cancel": "Hủy",
+  "hero-title": "Nền Tảng Mua, Bán Xe Trực Tuyến",
+  "hero-1": "Giao dịch diễn ra nhanh chóng",
+  "hero-2": "Chất lượng được đặt lên hàng đầu",
+  "hero-3": "Giá cả minh bạch",
+  "hero-btn": "Ứng dụng trực tuyến",
+  "services": {
+    "title": "DỊCH VỤ CỦA CHÚNG TÔI",
+    "subtitle": "Chúng tôi mang đến cho bạn những trải nghiệm tuyệt vời",
+    "heads": [
+      "DỊCH VỤ ĐA DẠNG",
+      "MIỄN PHÍ TƯ VẤN",
+      "THANH TOÁN ĐA DẠNG",
+      "CAM KẾT BẢO HÀNH"
+    ],
+    "descs": [
+      "Chúng tôi cung cấp các dịch vụ chuyên nghiệp để phục vụ nhu cầu bán và mua xe của quý khách hàng",
+      "Các chuyên viên của CitiCar luôn sẵn sàng hỗ trợ quý khách hàng",
+      "Hỗ trợ thanh toán bằng nhiều hình thức thông qua các đối tác tài chính",
+      "Dịch vụ bảo hành, bảo trì chuyên nghiệp với mức giá hợp lí"
+    ]
+  },
+  "features": {
+    "title": "DỄ DÀNG KHI MUA-BÁN XE TẠI CITICAR",
+    "heads": [
+      "Tìm kiếm các mẫu xe nhanh chóng tại CitiCar",
+      "Thông tin chi tiết của xe minh bạch, rõ ràng",
+      "Quy trình ký gửi và mua bán đơn giản, nhanh chóng"
+    ],
+    "descs": [
+      "Tìm kiếm chiếc xe yêu thích dễ dàng và hiệu quả đến như vậy với chức năng tìm kiếm nâng cao và bộ lọc chi tiết của chúng tôi",
+      "Ứng dụng CitiCar trực tuyến cung cấp các thông số kỹ thuật của xe một cách minh bạch, trực quan",
+      "Chuyên viên của CitiCar sẽ hỗ trợ khách hàng tất cả các thủ tục, giấy tờ liên quan"
+    ]
+  },
+  "faqs": {
+    "title": "CÁC NỘI DUNG THƯỜNG ĐƯỢC TƯ VẤN",
+    "button": "Liên hệ với chúng tôi",
+    "heads": [
+      "Làm cách nào để đăng bán xe trên CitiCar?",
+      "Quá trình kiểm định xe được diễn ra như thế nào tại CitiCar?",
+      "Việc kiểm định xe sẽ được diễn ra tại đâu?",
+      "Tôi có phải trả thêm phụ phí nào khác khi mua xe tại CitiCar không?",
+      "CitiCar có hỗ trợ tôi thực hiện các giấy tờ và thủ tục pháp lý không?",
+      "CitiCar có cung cấp dịch vụ ký gửi không?"
+    ],
+    "descs": [
+      "1. Cung cấp số điện thoại di động và tên của quý khách qua biểu mẫu trên Website.<br> 2. Chúng tôi sẽ liên hệ với quý khách để đưa ra báo giá dự kiến, thời gian đặt lịch xem xe và ưu đãi tốt nhất.",
+      "Đội ngũ kỹ thuật viên của chúng tôi sẽ kiểm định xe từ ngoại thất đến nội thất, bao gồm luôn cả động cơ xe và các bộ phận có yếu tố hao mòn khác.",
+      "Để việc kiểm định xe được diễn ra theo đúng quy trình tiêu chuẩn của chúng tôi, quý khách vui lòng mang xe đến cửa hàng - chi tiết địa chỉ văn phòng xem tại Website.",
+      "Toàn bộ chi phí khi chúng tôi báo giá với quý khách là giá tiền sau cùng, sẽ không phát sinh phụ phí nào khác. Trong trường hợp quý khách thực hiện trả góp, ngân hàng cung cấp dịch vụ có thể sẽ thu các loại phí theo quy định của ngân hàng.",
+      "Đội ngũ chuyên viên của CitiCar luôn sẵn sàng hỗ trợ quý khách hàng thực hiện các giấy tờ và thủ tục pháp lý liên quan.",
+      "Chúng tôi có cung cấp dịch vụ ký gửi theo từng trường hợp khách hàng. Quý khách vui lòng liên hệ các chuyên viên của chúng tôi để được hỗ trợ."
+    ]
+  },
+  "contacts": {
+    "title": "THEO DÕI THÔNG TIN CHÚNG TÔI",
+    "subtitle": "<strong>Đăng ký</strong> để nhận các thông tin mới nhất từ chúng tôi",
+    "button": "Đăng ký nhận bản tin",
+    "heads": ["CitiCar", "Thông tin liên hệ", "Mạng xã hội"],
+    "desc": [
+      "Nền tảng cung cấp dịch vụ mua-bán xe chuyên nghiệp. Mang đến cho khách hàng trải nghiệm liền mạch, nhanh chóng và tin cậy.",
+      "CÔNG TY CỔ PHẦN ĐẦU TƯ CÔNG NGHỆ CITICAR VIỆT NAM"
+    ],
+    "address": "<strong>Địa chỉ:</strong> Tầng 10, Pax Sky - 10, Nguyễn Cư Trinh, Phường Nguyễn Cư Trinh, Quận 1, Tp. Hồ Chí Minh, Việt Nam <br> <strong>Hotline:</strong> (028) 3636 7951<br><strong>Email:</strong> info@citicar.vn<br>"
+  }
+}
